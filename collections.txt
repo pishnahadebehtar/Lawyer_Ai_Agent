@@ -1,0 +1,8 @@
+users = {attributes : telegramID , is_answer_in_progress}
+chat_sessions= {attributes : user_ref,is_active}
+chats = {attributes : chat_session_ref,message,role}
+laws = {attributes : category, subcategory,content}
+court_rulings = {attributes : title , court_ruling_title_1 , court_ruling_text1 , . . . ,court_ruling_title_4 , court_ruling_text_4 , source_url}
+forms = { attributes : title , content ,url}
+terminology = {attributes : title , content }
+
