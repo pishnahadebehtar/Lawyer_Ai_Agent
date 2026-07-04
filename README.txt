@@ -1,14 +1,3 @@
-Step 1: The Optimized README.md File
-
-This README.md is structured like premium open-source AI projects. It includes
-visual elements (badges), clear architectural diagrams (text-based),
-step-by-step instructions, and a Services Directory that embeds contextual,
-high-value backlinks to your landing pages [2]. Google's crawler treats GitHub
-as an extremely high-trust domain, and these contextual links will pass
-significant SEO authority [2].
-
-Copy the entire Markdown content below and save it as README.md in your
-project's root folder:
 
 # ⚖️ Vakil Jibi (وکیل جیبی) — Open-Source AI Legal Assistant
 
